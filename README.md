@@ -6,3 +6,4 @@ We started by the standard machine learning model data preprocessing proces and 
 
 Using charts and graphs, we created an elbow curve graph, and we were also able to create a scatter plot and 3D scatter plot graphs to further visualize our findings.
 
+![crypto3d](https://github.com/rainmannyc/Cryptocurrencies/blob/cf41822a1a7b0fc54d3885330e48720602022daf/Resources/scatter_3d.png)
